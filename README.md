@@ -12,7 +12,9 @@
 **Проекты**
 
 - 📊 [dashboard](https://github.com/TheHeret1c/dashboard) — дашборд мониторинга сервера на Rust с автодеплоем: push → сборка в CI → образ в registry → сервер сам подтягивает обновление
-- 📱 Мобильное приложение для кафе — Flutter + бэкенд на Rust, в разработке
+- 📱 [cafe_aprel_automation](https://github.com/TheHeret1c/cafe_aprel_automation) — offline-first приложение на Flutter для реального кафе, бэкенд на Rust в разработке
+- 🍕 [Aprel-site](https://github.com/TheHeret1c/Aprel-site) — дипломный сайт заказа еды на ASP.NET Core с интеграцией iiko
+- 📐 [numerical-methods](https://github.com/TheHeret1c/numerical-methods) — численные методы на Rust с GUI на egui
 
 **Сейчас**
 
